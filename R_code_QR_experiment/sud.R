@@ -33,7 +33,7 @@
 #'                 c(0.006, 0.006, 0.008, 0.033, 0.854, 0.065),
 #'                 c(0.002, 0.001, 0.002, 0.005, 0.039, 0.891))
 #'  
-#' # run the estimation
+#' ## run the estimation
 #' sud(zstar = zsim, mstar = msim, W = wsim, xi = xisim, phi = phisim)
 
 sud <- function(zstar, mstar, W, xi = 1, phi)
