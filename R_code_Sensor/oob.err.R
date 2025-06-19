@@ -16,7 +16,7 @@
 #' @export
 #'
 #' @examples
-#' # load example data (artificially generated)
+#' ##load example data (artificially generated)
 #' load("sim.Rdata")
 #' 
 #' # estimation of RAE
