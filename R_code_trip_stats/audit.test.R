@@ -8,7 +8,7 @@
 #' @export
 #'
 #' @examples
-#' estimated counts from the survey
+#' # estimated counts from the survey
 #' ysim = c(4962, 4795, 5139, 5273, 5417, 6649, 6493, 5550, 6582, 5861, 5816, 5927)
 #' #
 #' # estimated sampling errors for the y counts
