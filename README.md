@@ -86,7 +86,7 @@ oob <- oob.err(data = dta, alpha = 6,
                gamma = 0, disp = TRUE)
 ```
 
-![](prova_Rearme_files/figure-gfm/unnamed-chunk-1-1.png)<!-- -->
+![](images/unnamed-chunk-1-1.png)<!-- -->
 
 ``` r
 # show relative absolute error (rae)
